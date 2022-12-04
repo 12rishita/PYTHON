@@ -1,4 +1,4 @@
-#tuples store multipleitems in a single variable
+#tuples store multiple items in a single variable
 #ordered,unchangeable,  
 my_tuple=("orange")
 print(my_tuple)
